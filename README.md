@@ -13,3 +13,5 @@ Requires your DNS to be set to 75.75.75.75 (Xfinity&#39;s DNS) so xfinitywifi ca
 - [ ] Implement cron stuff so it runs once an hour
   
 - [ ] Automate some browser stuff
+
+PS: From my experience Xfinity heavily throttles "xfinitywifi" starting at 10:30PM until some time in the morning due to lower amount of people using it.
