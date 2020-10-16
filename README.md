@@ -15,3 +15,8 @@ Requires your DNS to be set to 75.75.75.75 (Xfinity&#39;s DNS) so xfinitywifi ca
 - [ ] Automate some browser stuff
 
 PS: From my experience Xfinity heavily throttles "xfinitywifi" starting at 10:30PM until some time in the morning due to lower amount of people using it.
+
+## Donating:
+Do you appreciate this 12 line shell script that took me 5 minutes? Do you like to waste money? If so send me some bitcoin at: bc1qzt9yrh7synwd9rep43avwvudl8q09s8ehj0j0r
+
+![bc1q77y3x90nmuvxnmfs7v7y76rmysgyqxu8kp6s4g](https://user-images.githubusercontent.com/20760591/96208820-2e4cf700-0f23-11eb-8fc5-644789f9dfb4.png)
