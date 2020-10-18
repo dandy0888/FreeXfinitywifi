@@ -1,6 +1,6 @@
-###### WARNING: Doing this can get your account deleted I assume; since my account has been deleted.
-###### It also seems they fixed it so now only the account gets a free hour pass, not each device of an account.
-###### But don't worry my peasants! You can still enjoy free hour passes *hypothetically* by making an XFINITY ID each time and entering a random first and last name, a random email with a domain that doesn't exist, and a random security Q&A + password and it will provide you a free pass... hypothetically of course ;)
+##### WARNING: Doing this can get your account deleted I assume; since my account has been deleted.
+##### It also seems they fixed it so now only the account gets a free hour pass, not each device of an account.
+##### But don't worry my peasants! You can still enjoy free hour passes *hypothetically* by making an XFINITY ID each time and entering a random first and last name, a random email with a domain that doesn't exist, and a random security Q&A + password and it will provide you a free pass... hypothetically of course ;)
 
 # FreeXfinitywifi
 
